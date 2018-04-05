@@ -1,6 +1,11 @@
 # Configurations
 Configurations personnelles
 
+# Putty
+Registre windows pour parametrer Putty.
+- Augmente le nombre de ligne du buffer
+- Log tous les output de sessions
+
 # Bashrc
 Modification du bashrc pour un CLI plus agréable
 
