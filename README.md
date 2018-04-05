@@ -7,7 +7,8 @@ Registre windows pour parametrer Putty.
 - Log tous les output de sessions
 
 # Bashrc
-Modification du bashrc pour un CLI plus agréable
+Modification du bashrc pour un CLI plus agréable. 
+(Reload : ``source ~/.bashrc``)
 
 # Installation Dual boot Windows10 - Debian9
 
