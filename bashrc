@@ -11,7 +11,8 @@ alias l='ls -CF'
 
 #PS1='[\u:@\h \W]\$ '
 #PS1='\e[33m\u\e[00m@\e[32m\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\] '
-PS1="\[\e[33m\]\u\[\e[00m\]@\[\e[32m\]\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\] "
+#PS1="\[\e[33m\]\u\[\e[00m\]@\[\e[32m\]\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\] "
+PS1="\[\e[35m\]\A\[\e[00m\]:\e[33m\]\u\[\e[00m\]@\[\e[32m\]\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\] "
 
 # enable color support of ls and also add handy aliases
 if [ -x /usr/bin/dircolors ]; then
