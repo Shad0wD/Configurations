@@ -29,3 +29,6 @@ fi
 
 # add date and time to history
 export HISTTIMEFORMAT="%d/%m/%y %T "
+
+
+test online
